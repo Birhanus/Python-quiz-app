@@ -1,0 +1,4 @@
+Who developed Python Programming Language?,Wick van Rossum,Rasmus Lerdorf,Guido van Rossum,Niene Stom,Guido van Rossum
+Which type of Programming does Python support?,object-oriented programming,structured programming, functional programming,all of the mentioned,all of the mentioned
+What will be the value of the following Python expression 4 + 3 % 5 ?,7,2,4,1,7
+Which keyword is used for function in Python language?, Function,Def,Fun,Define,Def
